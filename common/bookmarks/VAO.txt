@@ -1,0 +1,12 @@
+bookmark =
+{
+	name = "HHH_BOOKMARKS_NAME"
+	desc = "HHH_BOOKMARKS_DESC"
+	date = 1444.11.11
+
+	center = 4803
+	
+	country = HHH
+	easy_country = HHH
+	default = yes
+}

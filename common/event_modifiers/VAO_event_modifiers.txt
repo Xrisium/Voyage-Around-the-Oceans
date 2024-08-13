@@ -1,0 +1,3 @@
+VAO_modifier_the_spice_must_flow ={
+	trade_goods_size = 1
+}

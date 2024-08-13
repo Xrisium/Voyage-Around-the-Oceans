@@ -1,0 +1,24 @@
+# HHH
+HHH_reform_haihuan_firm = {
+	icon  = "HHH_reform_haihuan_firm"
+	allow_normal_conversion = no
+	allow_convert = no
+	lock_level_when_selected = yes
+	fixed_rank = 1
+	maintain_dynasty = yes
+	royal_marriage = no
+	
+	potential = {
+		tag = HHH
+		OR = {
+			has_reform = HHH_reform_haihuan_firm
+			have_had_reform = HHH_reform_haihuan_firm
+		}
+		is_revolutionary = no
+	}
+	modifiers = {
+		global_manpower_modifier = 0.1
+		nobles_loyalty_modifier = 0.1
+		nobles_influence_modifier = 0.05
+	}
+}

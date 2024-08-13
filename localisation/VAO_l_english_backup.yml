@@ -1,0 +1,39 @@
+﻿l_english:
+
+  HHH:0 "海寰行"
+  HHH_ADJ:0 "海寰行"
+
+# bookmarks
+  HHH_BOOKMARKS_NAME:0 "§M「幻想剧本」§!南洋遗珠"
+  HHH_BOOKMARKS_DESC:0 "元末乱世之中，随着中原战乱导致的海禁放松，一支来自闽东地区的客家宗族抵达了婆罗洲西部，并在此定居。凭借来自大陆的旧有人脉和精明的商业头脑，他们很快控制了整个南洋群岛的珍宝贸易。来自苏门答腊的龙涎香、爪哇的肉桂、暹罗的鎏金佛像与天竺的精美工艺品被他们以半非法的形式输送往华夏大陆，并转化为数额惊人的财富。\n§V「海寰行」§!，他们如此称呼自己。没人能料到，这南洋群岛中的一叶孤舟，将会在未来书写怎样的传奇。"
+
+# ideas
+  HHH_ideas:0 "海寰行理念"
+  HHH_ideas_treasure_research:0 "奇珍有道"
+  HHH_ideas_treasure_research_desc:0 "夫器械之巧，工艺之精，皆赖探研之功。探者，察其理也；研者，究其法也。理得则妙用无穷，法明则事半功倍。吾行当以精研为基，博观约取，方能致远。"
+  HHH_ideas_reward_for_valor:0 "重赏勇夫"
+  HHH_ideas_reward_for_valor_desc:0 "战事凶险，士卒之勇，乃胜负所系。然军争多艰，行伍迁延，往往兵不足而事难成。佣兵者，非系国土，然为利而战，勇猛非常。用之以时，常能补府兵之不足，成吾军之助力。"
+  HHH_ideas_respect_for_religions:0 "尊俗敬信"
+  HHH_ideas_respect_for_religions_desc:0 "商贾行四方，涉诸国，必谙民风，敬信仰，是而人心易和，商道自通。南洋诸国，风俗殊异，吾行素以尊俗敬信为要，故能和睦交易，财货充盈，是以久长。"
+  HHH_ideas_ships_and_armament:0 "船坚炮利"
+  HHH_ideas_ships_and_armament_desc:0 "海上争锋，船坚炮利为胜。火炮之威，震慑四方，摧舟破城，无敌可挡。海军若欲称霸，必先强其舰，锐其炮，方能纵横四海，保海疆而卫商道。"
+  HHH_ideas_banking_and_interests:0 "银票通利"
+  HHH_ideas_banking_and_interests_desc:0 "票号者，替人守财，通兑四方，汇银为票，以保万全。又有贷财之法，商旅以货作质，得资而壮志，成事而致富。是故银票为信，贷财为助，兴商之要道也。"
+  HHH_ideas_agricultural_foundation:0 "以农为本"
+  HHH_ideas_agricultural_foundation_desc:0 "商贸之兴，实赖农事之本。夫地者，万物所出，民以食为天，农为商之基。农事不辍，岁有余粮，民生安定，则商贾有资，四海富饶。"
+  HHH_ideas_spy_network:0 "知己知彼"
+  HHH_ideas_spy_network_desc:0 "兵者，国之大事，存亡之道，不可轻动。夫战场之胜，非独赖兵力，亦在乎先机。情报者，军之耳目，察敌虚实，明天时地利，方能谋定后动，出奇制胜。故军中之要，情报为首，知己知彼，百战不殆。情报之察，胜负之机也。"
+  HHH_ideas_bonus:0 "海寰行野心"
+  HHH_ideas_start:0 "海寰行传统"
+
+# government reforms
+  HHH_reform_haihuan_firm:0 "海寰商行"
+  HHH_reform_haihuan_firm_desc:0 "海寰行以传统的儒家宗法观念来统御庞大的宗族和宗族的附属人员，并维持商行的日常运转。宗族族长同时是商行的掌舵人，其继承人一般被指定为当前族长的嫡长子。\n这一方案在商行体量尚小之时仍能维持其高效和权威，但随着贸易规模和人员数量的不断增长，传统的权力秩序正在受到挑战。"
+
+# modifiers
+  VAO_modifier_the_spice_must_flow:0 "§O香料必须流通！§!"
+  VAO_modifier_the_spice_must_flow_desc:0 "经过家族数十年的经营，此地已经形成了规模庞大的香料种植园，为商行在南洋的贸易源源不断地输送着商品。"
+
+# missions
+  HHH_mission_1_title:0 "第一个任务"
+  HHH_mission_1_desc:0 "这是一段示例描述。"

@@ -1,0 +1,28 @@
+HHH_mission_slot_1 = {
+	slot = 1
+	generic = no
+	ai = yes
+	potential = {
+		OR = {
+			tag = HHH
+		}
+	}
+
+	has_country_shield = yes
+	HHH_mission_1 = {
+		icon = mission_rb_scottish_north_sea_trade
+		position = 3
+		required_missions = { }
+		trigger = {
+			
+		}
+		effect = {
+			add_adm_power = 100
+			add_dip_power = 100
+			add_mil_power = 100
+			kalimantan_area = {
+				add_permanent_claim = root
+			}
+		}
+	}
+}
